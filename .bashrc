@@ -67,7 +67,3 @@ fi
 
 PS1='\[\e[1;30m\][\[\e[m\e[0;31m\]\D{%m-%d %H:%M}\[\e[m\e[1;30m\]][\[\e[m\e[0;32m\]\u\[\e[m\e[1;30m\]@\[\e[m\e[0;34m\]\h\[\e[m\e[1;30m\]]\[\e[m\] \w\$ '
 
-#Set up some hi-res xrandr-fu from Doug
-alias hires="xrandr -s 1280x960 --output LVDS --scale 1.25x1.25"
-alias hires-pan="xrandr -s 1280x1024 --output LVDS --panning 1280x1024"
-
