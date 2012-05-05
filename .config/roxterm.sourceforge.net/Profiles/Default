@@ -1,0 +1,11 @@
+
+[roxterm profile]
+visible_bell=1
+audible_bell=0
+hide_menubar=1
+always_show_tabs=0
+font=Inconsolata-dz for Powerline Medium 8
+color_term=xterm-color
+term=xterm-color
+show_resize_grip=0
+allow_bold=0
