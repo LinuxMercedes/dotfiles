@@ -67,3 +67,4 @@ fi
 
 PS1='\[\e[1;30m\][\[\e[m\e[0;31m\]\D{%m-%d %H:%M}\[\e[m\e[1;30m\]][\[\e[m\e[0;32m\]\u\[\e[m\e[1;30m\]@\[\e[m\e[0;34m\]\h\[\e[m\e[1;30m\]]\[\e[m\] \w\$ '
 
+PATH=/home/nathan/bin:/home/nathan/.gem/ruby/2.0.0/bin:$PATH
