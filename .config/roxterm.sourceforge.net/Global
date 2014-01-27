@@ -1,0 +1,9 @@
+
+[roxterm options]
+colour_scheme=Tango
+encoding=UTF-8
+warn_close=1
+only_warn_running=1
+edit_shortcuts=0
+shortcut_scheme=Default
+prefer_dark_theme=0
